@@ -23,7 +23,7 @@ Usually you need to start karma like this
 ./node_modules/karma/bin/karma to start karma. 
 ```
 
-So that I only need to type 'karma' without path install this module
+So that I only need to type 'karma' without path install this module. Then you can use 'karma' globally.
 ```
 npm install -g karma-cli
 ```
